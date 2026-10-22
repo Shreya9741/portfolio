@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 3D Developer Portfolio
 
 A minimalist, responsive developer portfolio built with **React + Vite**, **Material UI**, **React Three Fiber / drei** and **Framer Motion**.
@@ -70,3 +71,6 @@ src/
 - The 3D canvas is lazy-loaded, skipped on small/low-power devices or without WebGL (a CSS orb is shown instead), paused when scrolled out of view, and rendered as a single static frame for reduced-motion users.
 - Sections below the hero are code-split.
 - Skip link, semantic landmarks, visible focus rings, `aria-live` form feedback, and `rel="noopener noreferrer"` on external links.
+=======
+# portfolio
+>>>>>>> 23f85cb71d9039204389d2a6dbf1b4496de4fcd3
